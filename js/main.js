@@ -66,5 +66,3 @@ points2.forEach((point, index) => {
         slider2.style.left = `-${index * 100}%`;
     })
 });
-
-//Salut
